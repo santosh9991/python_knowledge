@@ -4,3 +4,5 @@
 4. Create a dictionary with following key values and print them
 
 keys:(fn,ln,kid,email,street,apt,city,state,zip,,phone,age,courses,gender)
+
+5. functions : create a function which accepts a string as argument and checks wheather it is palandrome or not: return true if it is else flase
